@@ -1,5 +1,5 @@
 # Roomba-Obstacle-Course
- =======================
+# =======================
  Repository that contains my final project for Iowa State University's CprE 2880 Roomba Obstacle Course Final Project.
  
  # Project Overview:
